@@ -15,7 +15,7 @@ O repositório contém diversos recursos para auxiliar nos testes e garantir a q
 - Testes de API: Este diretório contém os testes de API no formato JSON. Use-os para automatizar e validar a integridade das funcionalidades da API.
 
 - Requisitos que foram utilizados para análise e desenvolvimento dos testes. 
-
+----
 #### Ferramentas 
 - Postman 
 - Jira 
